@@ -8,5 +8,5 @@ You will need a few things to complete the request. You will need a Toggl API Ke
 
 ##Useful Links
 
-[Google Apps Scripts Documentation](https://developers.google.com/apps-script)
-[Toggl Reports API v2](https://github.com/toggl/toggl_api_docs/blob/master/reports.md)
+* [Google Apps Scripts Documentation](https://developers.google.com/apps-script)
+* [Toggl Reports API v2](https://github.com/toggl/toggl_api_docs/blob/master/reports.md)
